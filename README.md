@@ -16,3 +16,5 @@ No git bash ou em algum terminal digite esses comando:
   py -m venv env
   
   .\env\Scripts\activate
+  
+ site-ref: https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment
